@@ -13,5 +13,19 @@ namespace KolibriScript
         {
 
         }
+
+        protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void K8_CheckedChanged(object sender, EventArgs e)
+        {
+                    }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

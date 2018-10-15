@@ -13,6 +13,24 @@ namespace KolibriScript {
     public partial class SiteMaster {
         
         /// <summary>
+        /// Shotbox control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Shotbox;
+        
+        /// <summary>
+        /// Skuddliste control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButtonList Skuddliste;
+        
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>
